@@ -1,0 +1,8 @@
+Code fixes summary:
+- Fixed oxlint error at App.jsx:9:60 (Expected '>' but found Identifier)
+- Fixed oxlint Unexpected token error
+- Removed unused useCallback import
+- Fixed Math.random called during render in FloatingParticles
+- Fixed refs accessed during render warning
+- Fixed setState in effect warning
+- App runs with vite dev at http://localhost:5173 with no errors/warnings

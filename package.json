@@ -1,0 +1,8 @@
+{
+  "name": "opc-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix premium-login run dev",
+    "build": "npm --prefix premium-login run build"
+  }
+}
